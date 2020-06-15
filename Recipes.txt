@@ -3,6 +3,8 @@ Kheer and Pasta
 Biryani
 pizza
 rasam
+papad
+chuney
 
 
 
